@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\GIT TEST\\ESP32-BME280-Weather-RLaw"
+		},
+		{
+			"name": "TEST",
+			"path": "..\\..\\..\\Documents\\PlatformIO\\Projects\\TEST"
+		}
+	],
+	"settings": {}
+}
